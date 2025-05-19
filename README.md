@@ -43,7 +43,7 @@ Use analytics and machine learning to identify the main causes of employee attri
 
 ---
 
-## 📊 Key Findings (from SHAP + EDA)
+## 📊 Key Findings (from EDA)
 
 - Employees with **no promotions in over 3 years** are more likely to leave.
 - **Overtime** is a strong predictor of attrition.
