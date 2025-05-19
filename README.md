@@ -38,15 +38,7 @@ Use analytics and machine learning to identify the main causes of employee attri
   - **Decision Tree Classifier**
 - Evaluated with accuracy, confusion matrix, and interpretability.
 
-### 3. SHAP Analysis
-- Interpreted model predictions to understand feature contributions to attrition.
-- Key features:
-  - Overtime
-  - YearsSinceLastPromotion
-  - JobRole
-  - MonthlyIncome
-
-### 4. Power BI Dashboard
+### 3. Power BI Dashboard
 - Visualized department-wise attrition, salary band distribution, and career growth trends.
 
 ---
@@ -68,7 +60,7 @@ Use analytics and machine learning to identify the main causes of employee attri
 | 📈 Power BI Dashboard | Visual breakdown of attrition patterns |
 | 📘 Jupyter Notebook | Code for EDA, model training, SHAP analysis |
 | 📄 PDF Report | Summary + Actionable prevention strategies |
-| 🧮 Confusion Matrix | Model performance evaluation |
+| 🧮 excel file | Raw dataset |
 
 ---
 
@@ -81,6 +73,4 @@ Use analytics and machine learning to identify the main causes of employee attri
 - Foster **a positive and recognized workplace culture**.
 
 ---
-
-## 📂 Repository Structure
 
